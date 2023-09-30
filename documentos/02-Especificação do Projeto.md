@@ -58,12 +58,7 @@
 | Empresário/gestor               | Cadastrar usuários                       | Dar acesso as informações da organização aos colaboradores                              |
 | Colaborador               | Acessar as informações e datas disponibilizadas pelo empresário/gestor                       | Atuação profissional                              |
 | Colaborador               | Registrar comentários em fóruns e votar enquetes                       | Interagir e expor opiniões                              |
-| Colaborador               | Registrar denúncias,
-comentários anônimos                       | Comunicar fraudes e outros
-temas sensíveis a gestão
-sem o risco de retaliação
-quando de possíveis
-investigações                             |
+| Colaborador               | Registrar denúncias, comentários anônimos | Comunicar fraudes e outros temas sensíveis a gestão sem o risco de retaliação quando de possíveis investigações                          |
 | Empresário/gestor ou outro colaborador              | Receber por e-mail denúncias registradas no Portal Intra anonimamente                       | Obter as informações necessárias de forma sigilosa para tratamento de denúncias                              |
 ## Requisitos do Projeto
 
