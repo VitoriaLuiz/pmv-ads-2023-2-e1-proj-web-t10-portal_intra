@@ -8,19 +8,19 @@
 <tbody>
 <tr align=center>
 <th colspan="2">Perfil Empresarios/Gestor </th>
-</tr> Necessidades: •	Publicar notícias e lembretes
+</tr> Necessidades: 
+<tr>
+<td width="150px"><b>Descrição: 	Perfil responsável pelas customizações no Portal e input de informações </b></td>
+<td width="600px">...</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td> •	Publicar notícias e lembretes
 •	Publicar informações de forma segmentada por área
 •	Divulgar resultados
 •	Criar fóruns e enquetes
 •	Registrar datas importantes em calendário específico
 •	Customizar temas e cores do Portal
 
-<tr>
-<td width="150px"><b>Descrição: 	Perfil responsável pelas customizações no Portal e input de informações </b></td>
-<td width="600px">...</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
 <td>...</td>
 </tr>
 </tbody>
