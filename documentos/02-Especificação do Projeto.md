@@ -80,12 +80,12 @@
 | RF- 01 |A aplicação deve possuir calendário contendo opção de registro de informações nas datas | Média |  
 | RF- 02| A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado | Alta |
 | RF- 03| A aplicação deve permitir a criação de abas para input de informações segmentadas | Média |
-| RF- 04|  ...                    | Média |
-| RF- 05|  ...                    | Alta |
-| RF- 06|  ...                    | Baixa |
-| RF- 07|  ...                    | Alta |
-| RF- 08|  ...                    | Alta |
-| RF- 09|  ...                    | Alta |
+| RF- 04| A aplicação deve permitir a customização de cores e planos de fundo do Portal | Média |
+| RF- 05| A aplicação deve permitir a criação de fóruns contendo botões para resposta em texto | Alta |
+| RF- 06| A aplicação deve permitir a criação de enquetes com botões para votação | Baixa |
+| RF- 07| A aplicação deve permitir o registro anônimo de ocorrências/denúncias que deverão ser encaminhadas para e-mails específicos de acordo com a estrutura da empresa | Alta |
+| RF- 08| A aplicação deve permitir o registro anônimo de ocorrências/denúncias que deverão ser encaminhadas para e-mails específicos de acordo com a estrutura da empresa | Alta |
+| RF- 09| A aplicação deve ser acessada por meio do input de usuário e senha | Alta |
 
 **Prioridade: Alta / Média / Baixa. 
 
