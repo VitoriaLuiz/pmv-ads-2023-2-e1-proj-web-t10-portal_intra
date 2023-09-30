@@ -56,8 +56,8 @@
 [Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|----------------------------------|----------------------------------|
-| Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      |                             |
+|--------------------|----------------------------------|------------------------------------------------|
+| Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      | Planejamento de atividades considerando os dias não úteis, comunicação de aniversários para gestão de clima, acessar e comunicar   o vencimento de atividades e pagamentos, fácil identificação de funcionários ausentes e razão de férias ou licença                            |
 | Empresário/gestor                | ...                       | ...                              |
 
 ## Requisitos do Projeto
