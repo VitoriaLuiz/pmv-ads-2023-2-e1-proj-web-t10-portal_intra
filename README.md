@@ -6,7 +6,9 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O objetivo geral deste trabalho é criar de um Portal Intra, semelhante a uma intranet 
+corporativa, que possa ser facilmente customizável para atender às necessidades de micro e 
+pequenas empresas que buscam a organização de suas funções e projetos. 
 
 ## Integrantes
 
