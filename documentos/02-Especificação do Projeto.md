@@ -15,7 +15,13 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>•	Publicar notícias e lembretes</td>
+<td>•	Publicar notícias e lembretes
+•	Publicar informações de forma segmentada por área
+•	Divulgar resultados
+•	Criar fóruns e enquetes
+•	Registrar datas importantes em calendário específico
+•	Customizar temas e cores do Portal
+</td>
 </tr>
 </tbody>
 </table>
