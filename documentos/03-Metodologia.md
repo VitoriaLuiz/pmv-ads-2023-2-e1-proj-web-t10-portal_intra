@@ -66,9 +66,6 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/709                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/assets/146567295/dd5c52d4-02a1-4b3e-8e41-66cbf0b7a997)
-
-
 
 ### Estratégia de Organização de Codificação 
 
