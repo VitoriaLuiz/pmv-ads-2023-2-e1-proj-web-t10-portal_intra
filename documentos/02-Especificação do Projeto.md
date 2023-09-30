@@ -10,8 +10,8 @@
 <th colspan="2">Perfil Empresarios/Gestor </th>
 </tr> Necessidades: 
 <tr>
-<td width="150px"><b>Descrição: 	Perfil responsável pelas customizações no Portal e input de informações </b></td>
-<td width="600px">...</td>
+<td width="150px"><b>Descrição:  </b></td>
+<td width="600px">Perfil responsável pelas customizações no Portal e input de informações</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
