@@ -58,8 +58,8 @@
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|----------------------------------|----------------------------------------------------------------------------------------------------------|
 | Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      | Planejamento de atividades considerando os dias não úteis, comunicação de aniversários para gestão de clima, acessar e comunicar   o vencimento de atividades e pagamentos, fácil identificação de funcionários ausentes e razão de férias ou licença                            |
-| Empresário/gestor               | Divulgar notícias, lembretes, comunicados e oportunidades de movimentação interna                       | ...                              |
-| Empresário/gestor             | ...                       | ...                              |
+| Empresário/gestor               | Divulgar notícias, lembretes, comunicados e oportunidades de movimentação interna                       | Informar aos colaboradores temas relevantes sobre o negócio que podem impactar a estratégia, lembrar as atividades a serem realizadas, abrir oportunidades de movimentação interna antes de divulgar as vagas no mercado                              |
+| Empresário/gestor             | Criar subitens/categorias                       | Segmentar as informações pertinentes às diversas funções e projetos da organização                              |
 | Empresário/gestor            | ...                       | ...                              |
 | Empresário/gestor               | ...                       | ...                              |
 | Empresário/gestor               | ...                       | ...                              |
