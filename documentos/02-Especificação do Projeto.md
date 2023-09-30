@@ -58,8 +58,10 @@
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|----------------------------------|----------------------------------------------------------------------------------------------------------|
 | Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      | Planejamento de atividades considerando os dias não úteis, comunicação de aniversários para gestão de clima, acessar e comunicar   o vencimento de atividades e pagamentos, fácil identificação de funcionários ausentes e razão de férias ou licença                            |
-| Empresário/gestor                | ...                       | ...                              |
-
+| ...               | ...                       | ...                              |
+| ...               | ...                       | ...                              |
+| ...               | ...                       | ...                              |
+| ...               | ...                       | ...                              |
 ## Requisitos do Projeto
 
 [Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
