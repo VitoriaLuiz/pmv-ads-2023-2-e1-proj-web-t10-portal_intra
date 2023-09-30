@@ -57,7 +57,7 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      |                             |
+| Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      |    vj                         |
 | Empresário/gestor                | ...                       | ...                              |
 
 ## Requisitos do Projeto
