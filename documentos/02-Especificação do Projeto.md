@@ -10,7 +10,7 @@
 <th colspan="2">Perfil Empresarios/Gestor </th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
+<td width="150px"><b>Descrição: 	Perfil responsável pelas customizações no Portal e input de informações </b></td>
 <td width="600px">...</td>
 </tr>
 <tr>
