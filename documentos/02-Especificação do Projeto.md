@@ -7,7 +7,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Usuarios </th>
+<th colspan="2">Perfil Empresarios/Gestor </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -23,7 +23,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Usuarios </th>
+<th colspan="2">Perfil Colaborador </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
