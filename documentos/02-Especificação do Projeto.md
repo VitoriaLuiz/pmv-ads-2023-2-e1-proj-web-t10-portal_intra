@@ -2,8 +2,6 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
 <table>
 <tbody>
 <tr align=center>
@@ -68,14 +66,10 @@
 | Colaborador               | Acessar as informações e datas disponibilizadas pelo empresário/gestor                       | Atuação profissional                              |
 | Colaborador               | Registrar comentários em fóruns e votar enquetes                       | Interagir e expor opiniões                              |
 | Colaborador               | Interagir e expor opiniões                       | Interagir e expor opiniões                              |
-| Empresários/gestor ou outro colaborador               | Receber por e-mail denúncias registradas no Portal Intra anonimamente                       | Obter as informações necessárias de forma sigilosa para tratamento de denúncias                              |
+| Empresário/gestor ou outro colaborador              | Receber por e-mail denúncias registradas no Portal Intra anonimamente                       | Obter as informações necessárias de forma sigilosa para tratamento de denúncias                              |
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
-
 ### Requisitos Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
@@ -92,8 +86,6 @@
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
