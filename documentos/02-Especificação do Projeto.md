@@ -77,7 +77,7 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF- 01 |  ...                    | Média|  
+| RF- 01 |A aplicação deve possuir calendário contendo opção de registro de informações nas datas                   | Média|  
 | RF- 02|  ...                    | Alta |
 | RF- 03|  ...                    | Média |
 | RF- 04|  ...                    | Média |
