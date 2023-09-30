@@ -12,21 +12,17 @@ Este link pode ajudar a equipe a entender mais sobre definição do problema: [O
 
 ## Objetivos
 
-O objetivo geral deste trabalho é a criação de um Portal Intra, semelhante a uma intranet 
-corporativa, que possa ser facilmente customizável para atender às necessidades de micro e 
-pequenas empresas que buscam a organização de suas funções e projetos. 
+O objetivo geral deste trabalho é criar um Portal Intra, semelhante a uma intranet corporativa, que possa ser facilmente customizável para atender às necessidades de micro e pequenas empresas que buscam a organização de suas funções e projetos.
+
 Com objetivos específicos, esse portal possibilitará:
- Publicação de informações internamente de forma segmentada de acordo com as 
-áreas da empresa;
- Publicação de notícias, lembretes, e oportunidades de movimentação;
- Divulgação de indicadores e resultados do período;
- Registro de feriados, aniversários e outras datas importantes que impactam o negócio 
-em calendário editável;
- Criação de fóruns e enquetes para participação dos colaboradores;
- Registro de denúncias anônimas a serem endereçadas por e-mail aos responsáveis 
-na empresa pelo tratamento;
- Edição de temas e cores da página;
-Opções de acessibilidade para atender a pessoas com deficiência.
+
+Como objetivos específicos, podemos destacar:
+<ul>
+<li>Publicação de informações internamente de forma segmentada de acordo com as 
+áreas da empresa;</li>
+<li>Publicação de notícias, lembretes, e oportunidades de movimentação;</li>
+<li>Conectar os alunos que buscam tutoria para potencializar sua aprendizagem.</li>
+</ul>
 
  
 Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
