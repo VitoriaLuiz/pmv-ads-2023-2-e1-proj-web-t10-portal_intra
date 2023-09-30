@@ -23,11 +23,13 @@ Como objetivos específicos, podemos destacar:
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Segundo a pesquisa do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), realizada em 2020, ainda existe a necessidade de atuação para sobrevivência das pequenas empresas no Brasil. A taxa de mortalidade de microempresas (ME) em até 5 anos foi de 21,6% e as de pequeno porte de 17%. Ao tratar de microempreendedores essa configuração ainda é pior, o percentual vai para 29%.
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+Diante deste cenário, é importante o desenvolvimento de ações para suporte e fomento desses negócios, considerando as dificuldades específicas quando se trata de microempresas e empresas de pequeno porte, que podem ter uma maior quantidade de colaboradores, e possuem uma grande importância para o desenvolvimento do país.
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Ainda segundo o Sebrae, em referência à pesquisa do IBGE com valores apurados até 2011, as micro e pequenas empresas são as principais geradoras de riqueza no Comércio no Brasil, já que respondem por 53,4% do PIB deste setor. No PIB da Indústria, a participação das micro e pequenas (22,5%) já se aproxima das médias empresas (24,5%).
+
+Dentre os motivos apontados na pesquisa do Sebrae de 2020, sobre a taxa de mortalidade, estão o planejamento e gestão do negócio deficientes. Nesse sentido, a proposta deste projeto é fornecer uma ferramenta de baixo custo que auxilie na gestão das informações e comunicações e que seja facilmente customizável, considerando a realidade do micro e pequeno empresário.
 
 ## Público-Alvo
 
