@@ -12,16 +12,11 @@ pequenas empresas que buscam a organização de suas funções e projetos.
 
 ## Integrantes
 
+* Bernardo Alves Carvalho
+* Efraim Buarque de Lima
 * Jonathan Vaz De Avelar
 * Mayara da Rocha Pinheiro
-* Efraim Buarque de Lima 
-* Bernardo Alves Carvalho
 * Saulo Lima de Carvalho
-
-Canvas - PUC Minas
-
-Acesso ao ambiente Canvas da PUC Minas
-
 
 ## Orientador
 
