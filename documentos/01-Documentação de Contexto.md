@@ -1,9 +1,21 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+Diante das diversas funções e atividades acumuladas por empresários de micro e pequenas 
+empresas, em muitos casos existe uma grande dificuldade em organizar e centralizar as 
+informações e documentos, de forma acessível e segmentada para atender as necessidades 
+do negócio.
+
+Conforme necessidade de utilizar as informações do negócio para tomada de decisão, podem 
+existir dificuldades para obtenção dos dados necessários de forma facilitada. Nesse sentido, 
+é de suma importância a existência de canais internos não só para organização das 
+informações, mas também para divulgação das ações da empresa e promoção da cultura 
+organizacional para os colaboradores.
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
+O problema a ser estudado neste projeto consiste na dificuldade de centralização das 
+informações e divulgação das ações internas em micro e pequenas empresas. Esse problema 
+se apresenta devido às limitações de tempo, recursos financeiros e acesso à conhecimento 
+tecnológico experienciadas por empresários de negócios desse porte.
 
 Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
