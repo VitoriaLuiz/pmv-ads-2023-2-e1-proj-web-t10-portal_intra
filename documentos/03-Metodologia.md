@@ -18,11 +18,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: Bernardo Alves Carvalho, Efraim Buarque de Lima, Jonathan Vaz De Avelar, Mayara da Rocha Pinheiro e Saulo Lima de Carvalho.
 - Equipe de Design: Efraim Buarque de Lima.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas:
@@ -33,6 +28,11 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 O quadro kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/709 e é apresentado, no estado atual, na figura abaixo:
+
+<figure> 
+  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
+    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+</figure>
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -71,6 +71,9 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Projeto de Interface                | Figma                              | http://....                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/709                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/assets/146567295/dd5c52d4-02a1-4b3e-8e41-66cbf0b7a997)
+
 
 
 ### Estratégia de Organização de Codificação 
