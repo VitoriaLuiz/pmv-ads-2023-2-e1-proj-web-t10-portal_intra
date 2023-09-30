@@ -64,10 +64,9 @@
 | Empresário/gestor               | Criar fóruns e enquetes                      | Promover a interação e obter de opinião de colaboradores sobre determinado assunto                             |
 | Empresário/gestor               | Cadastrar usuários                       | Dar acesso as informações da organização aos colaboradores                              |
 | Colaborador               | Acessar as informações e datas disponibilizadas pelo empresário/gestor                       | Atuação profissional                              |
-| Colaborador               | ...                       | ...                              |
-| Colaborador               | ...                       | ...                              |
-| Colaborador               | ...                       | ...                              |
-| Empresários/gestor ou outro colaborador               | ...                       | ...                              |
+| Colaborador               | Registrar comentários em fóruns e votar enquetes                       | Interagir e expor opiniões                              |
+| Colaborador               | Interagir e expor opiniões                       | Interagir e expor opiniões                              |
+| Empresários/gestor ou outro colaborador               | Receber por e-mail denúncias registradas no Portal Intra anonimamente                       | Obter as informações necessárias de forma sigilosa para tratamento de denúncias                              |
 ## Requisitos do Projeto
 
 [Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
