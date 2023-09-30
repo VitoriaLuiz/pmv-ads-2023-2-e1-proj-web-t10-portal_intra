@@ -95,7 +95,7 @@
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | Alta | 
+| RNF-01 | A aplicação deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge.| Alta | 
 | RNF-02 |  ...                    | Média|
 | RNF-03 |  ...                    | Média| 
 | RNF-04 |  ...                    | Média| 
