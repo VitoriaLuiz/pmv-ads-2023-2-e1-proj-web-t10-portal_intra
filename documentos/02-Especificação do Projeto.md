@@ -6,7 +6,7 @@
 <tbody>
 <tr align=center>
 <th colspan="2">Perfil 1 - Empresário/Gestor </th>
-</tr> Necessidades: 
+</tr> 
 <tr>
 <td width="150px"><b>Descrição:  </b></td>
 <td width="600px">Perfil responsável pelas customizações no Portal e input de informações</td>
