@@ -37,7 +37,10 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>•	Acessar as informações publicadas no Portal
+•	Participar em fóruns e enquetes
+•	Registrar denúncias de forma anônima
+</td>
 </tr>
 </tbody>
 </table>
