@@ -14,8 +14,8 @@
 <td width="600px">...</td>
 </tr>
 <tr>
-<td><b>Necessidades</b></td> 1 •	Publicar notícias e lembretes
-<td>...</td>
+<td><b>Necessidades</b></td>
+<td>•	Publicar notícias e lembretes</td>
 </tr>
 </tbody>
 </table>
