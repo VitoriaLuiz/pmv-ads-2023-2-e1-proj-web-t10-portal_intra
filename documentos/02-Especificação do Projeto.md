@@ -14,13 +14,7 @@
 <td width="600px">...</td>
 </tr>
 <tr>
-<td><b>Necessidades: •	Publicar notícias e lembretes
-•	Publicar informações de forma segmentada por área
-•	Divulgar resultados
-•	Criar fóruns e enquetes
-•	Registrar datas importantes em calendário específico
-•	Customizar temas e cores do Portal
-</b></td> 
+<td><b>Necessidades</b></td> 1 •	Publicar notícias e lembretes
 <td>...</td>
 </tr>
 </tbody>
