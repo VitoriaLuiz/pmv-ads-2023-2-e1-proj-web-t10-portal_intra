@@ -7,9 +7,6 @@ Conforme necessidade de utilizar as informações do negócio para tomada de dec
 ## Problema
 O problema a ser estudado neste projeto consiste na dificuldade de centralização das informações e divulgação das ações internas em micro e pequenas empresas. Esse problema se apresenta devido às limitações de tempo, recursos financeiros e acesso à conhecimento tecnológico experienciadas por empresários de negócios desse porte.
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
-
 ## Objetivos
 
 O objetivo geral deste trabalho é criar um Portal Intra, semelhante a uma intranet corporativa, que possa ser facilmente customizável para atender às necessidades de micro e pequenas empresas que buscam a organização de suas funções e projetos.
@@ -24,9 +21,6 @@ Como objetivos específicos, podemos destacar:
 <li>Planejar atividades críticas e sociais mediante fácil acesso às datas que afetam o negócio.</li>
 </ul>
 
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
 ## Justificativa
 
 [Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
@@ -37,12 +31,8 @@ Este link pode ajudar a equipe a formular a justificativa: [Como montar a justif
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+Apesar da ferramenta Portal Intra poder atender a empresas com estruturas mais robustas, 
+mas que prezam pela facilidade e praticidade, o público a que este projeto se destina são 
+micro e pequenas empresas que não possuem uma área de Tecnologia dedicada para 
+desenvolvimento de ferramentas de gestão.
 
