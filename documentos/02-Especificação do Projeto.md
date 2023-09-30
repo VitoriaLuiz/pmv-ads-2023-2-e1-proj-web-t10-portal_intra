@@ -95,8 +95,10 @@
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 |  ...                    | Alta | 
+| RNF-02 |  ...                    | Média|
+| RNF-03 |  ...                    | Média| 
+| RNF-04 |  ...                    | Média| 
 
 **Prioridade: Alta / Média / Baixa. 
 
