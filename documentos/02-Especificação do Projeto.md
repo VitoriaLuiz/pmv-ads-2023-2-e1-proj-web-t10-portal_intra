@@ -56,8 +56,8 @@
 [Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      |    vj                         |
+|--------------------|----------------------------------|----------------------------------|
+| Empresário/Gestor                | Registrar as principais datas que afetam o negócio                      |                             |
 | Empresário/gestor                | ...                       | ...                              |
 
 ## Requisitos do Projeto
