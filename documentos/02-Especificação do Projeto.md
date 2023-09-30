@@ -33,7 +33,7 @@
 <th colspan="2">Perfil 2 - Colaborador </th>
 </tr>
 <tr>
-<td width="150px"><b>Descrição: ></b></td>
+<td width="150px"><b>Descrição: </b></td>
 <td width="600px">Perfil que irá acessar as informações, participar em fóruns e enquetes e registrar denúncias</td> 
 </tr>
 <tr>
