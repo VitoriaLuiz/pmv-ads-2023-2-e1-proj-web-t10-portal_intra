@@ -1,8 +1,8 @@
 # Portal Intra
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas - PUC Minas
 
-`DISCIPLINA`
+Desenvolvimento de aplicação web front-end
 
 `SEMESTRE`
 
