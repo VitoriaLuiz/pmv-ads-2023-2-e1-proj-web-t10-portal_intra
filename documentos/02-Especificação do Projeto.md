@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td width="150px"><b>Perfil que irá acessar as informações, participar em fóruns e enquetes e registrar denúncias</b></td>
-<td width="600px">...</td>
+<td width="600px">...</td> Perfil que irá acessar as informações, participar em fóruns e enquetes e registrar denúncias
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
