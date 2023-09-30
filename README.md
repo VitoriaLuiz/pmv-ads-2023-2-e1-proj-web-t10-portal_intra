@@ -14,9 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Mayara da Rocha Pinheiro
 * Efraim Buarque de Lima 
 * Bernardo Alves Carvalho
-* Jonathan Vaz De Avelar
-
-Saulo Lima de Carvalho
+* Saulo Lima de Carvalho
 
 Canvas - PUC Minas
 
