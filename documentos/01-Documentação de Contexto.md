@@ -14,14 +14,14 @@ Este link pode ajudar a equipe a entender mais sobre definição do problema: [O
 
 O objetivo geral deste trabalho é criar um Portal Intra, semelhante a uma intranet corporativa, que possa ser facilmente customizável para atender às necessidades de micro e pequenas empresas que buscam a organização de suas funções e projetos.
 
-Com objetivos específicos, esse portal possibilitará:
-
 Como objetivos específicos, podemos destacar:
+
 <ul>
-<li>Publicação de informações internamente de forma segmentada de acordo com as 
-áreas da empresa;</li>
-<li>Publicação de notícias, lembretes, e oportunidades de movimentação;</li>
-<li>Conectar os alunos que buscam tutoria para potencializar sua aprendizagem.</li>
+<li>Centralizar e comunicar informações relevantes da empresa;</li>
+<li>Possibilitar interação dos colaboradores em publicações de interesse;</li>
+<li>Facilitar a participação dos colaboradores em votações;</li>
+<li>Viabilizar a comunicação de ocorrências indevidas de forma anônima;</li>
+<li>Planejar atividades críticas e sociais mediante fácil acesso às datas que afetam o negócio.</li>
 </ul>
 
  
