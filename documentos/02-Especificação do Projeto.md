@@ -96,7 +96,7 @@
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 | A aplicação deverá ser responsiva permitindo a visualização em dispositivos diversos de forma adequada..| Alta | 
-| RNF-02 |A ferramenta deve estar disponível 98% do tempo, considerando o período de 24 horas diárias, 7 dias por semana.  | Média|
+| RNF-02 |A aplicação deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge. | Média|
 | RNF-03 | A ferramenta deve estar disponível 98% do tempo, considerando o período de 24 horas diárias, 7 dias por semana. | Média| 
 | RNF-04 |A ferramenta deve permitir o acesso dos usuários em até 5 segundos após login e senha. | Média| 
 
