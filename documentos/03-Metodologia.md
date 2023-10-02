@@ -16,7 +16,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Scrum Master: Jonathan Vaz De Avelar.
 - Product Owner: Mayara da Rocha Pinheiro.
 - Equipe de Desenvolvimento: Bernardo Alves Carvalho, Efraim Buarque de Lima, Jonathan Vaz De Avelar, Mayara da Rocha Pinheiro e Saulo Lima de Carvalho.
-- Equipe de Design: Efraim Buarque de Lima.
+- Equipe de Design: Efraim Buarque de Lima e Saulo Lima de Carvalho.
 
 ### Processo
 
