@@ -62,7 +62,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/tree/main/codigo-fonte                           |
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/tree/main                            |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | MarvelApp                              |https://marvelapp.com/whiteboard/S40yaY46u8wsItWuLZNP                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/709                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
