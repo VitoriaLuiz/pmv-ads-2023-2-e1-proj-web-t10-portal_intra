@@ -10,7 +10,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
     <figcaption>Figura 1 - Tela do Kanban no GitHub </figcaption>
 </figure> 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Kanban.PNG"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Criar%20enquete.PNG"
     <figcaption>Login</figcaption>
 </figure>
 
