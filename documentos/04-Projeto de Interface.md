@@ -30,7 +30,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 [Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Criar%20enquete.PNG"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Tela%20Login.PNG"
     <figcaption>Figura 2 - Login</figcaption>
 </figure>
 
