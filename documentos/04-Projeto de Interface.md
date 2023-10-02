@@ -8,7 +8,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Fluxo.PNG"
-    <figcaption> Figura 1 - User Flow</figcaption>
+    <figcaption> Figura 3 - User Flow</figcaption>
 </figure>
 
 
@@ -31,7 +31,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Tela%20Login.PNG"
-    <figcaption>Figura 2 - Login</figcaption>
+    <figcaption>Figura 4 - Login</figcaption>
 </figure>
 
 
@@ -39,28 +39,32 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Tela%20in%C3%ADcio.PNG"
-    <figcaption>Figura 3 - Tela início</figcaption>
+    <figcaption>Figura 5 - Tela início</figcaption>
 </figure>
-
 
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Cadastrar%20usu%C3%A1rio.PNG"
-    <figcaption>Figura 4 - Cadastrar Usuário</figcaption>
+    <figcaption>Figura 6 - Cadastrar Usuário</figcaption>
 </figure>
-
 
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Criar%20enquete.PNG"
-    <figcaption>Figura 5 - Criar Enquete</figcaption>
+    <figcaption>Figura 7 - Criar Enquete</figcaption>
 </figure>
 
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Tela%20-%20Configura%C3%A7%C3%B5es.PNG"
+    <figcaption>Figura 8 - Configurações</figcaption>
+</figure>
 
+<br>
+<br>
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20intra%20-%20Registrar%20den%C3%BAncia.PNG"
-    <figcaption>Figura 6 - Denúncia</figcaption>
+    <figcaption>Figura 9 - Denúncia</figcaption>
 </figure>
 
 
