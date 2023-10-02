@@ -23,8 +23,6 @@ Cabeçalho - local onde estão dispostos o nome da aplicação e os botões de I
 <br>
 Conteúdo - apresenta o conteúdo da tela em questão.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
-
 <h3><b>Tela - Login</b></h3>
 <p>A tela de login apresenta campos de Email, Empresa e Senha, além de um botão para realizar o login.</p>
 <figure> 
