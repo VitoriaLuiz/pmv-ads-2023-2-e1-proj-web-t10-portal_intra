@@ -3,8 +3,6 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
 O fluxograma apresentado na figura 3 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue.
 
 <figure> 
@@ -27,6 +25,7 @@ O fluxograma apresentado na figura 3 mostra o fluxo de interação do usuário p
 As telas do sistema apresentam a seguinte estrutura comum, conforme consta nas telas detalhadas:
 
 Cabeçalho - local onde estão dispostos o nome da aplicação e os botões de Início, Criar Enquete, Gerar denúncia e Criar Usuário;
+<br>
 Conteúdo - apresenta o conteúdo da tela em questão.
 
 [Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
@@ -102,12 +101,4 @@ Conteúdo - apresenta o conteúdo da tela em questão.
 <br>
 <br>
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
-
-
 
