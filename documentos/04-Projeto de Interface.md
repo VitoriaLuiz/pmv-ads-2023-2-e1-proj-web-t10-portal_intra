@@ -34,20 +34,29 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
     <figcaption>Figura 2 - Login</figcaption>
 </figure>
 
+
+
+
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Tela%20in%C3%ADcio.PNG"
     <figcaption>Figura 3 - Tela início</figcaption>
 </figure>
+
+
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Cadastrar%20usu%C3%A1rio.PNG"
     <figcaption>Figura 4 - Cadastrar Usuário</figcaption>
 </figure>
 
+
+
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Criar%20enquete.PNG"
     <figcaption>Figura 5 - Criar Enquete</figcaption>
 </figure>
+
+
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20intra%20-%20Registrar%20den%C3%BAncia.PNG"
