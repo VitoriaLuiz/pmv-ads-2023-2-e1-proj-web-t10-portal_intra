@@ -1,0 +1,193 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 10%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.chat-name {
+    border-radius: 50%;
+    width: 205px;
+    height: 100px;
+    display: inline-block;
+    background-color: #33299f;
+    color: #fff;
+    text-align: center;
+    line-height: 85px;
+    font-size: 40px;
+    position:static;
+
+   
+    
+}
+nav{
+    background-color: #292a69;
+    justify-content:space-around;
+    display:table-column-group;
+    height:65px;
+    padding: left 50px;;
+    font-size:larger;
+    border: 1px solid #ccc4c4;
+    position:-webkit-sticky;
+    transform: translateX(700px);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    
+   
+    
+}
+nav li{
+    display: inline-block;
+   margin-block-end: auto;
+
+    
+
+}
+nav li a{
+    display: inline-block;
+    color: #e3e7ec;
+    text-decoration: none;
+    padding: 15px;
+}
+
+
+
+section{
+    margin-top: 3%;
+    font-size: 170%;
+    line-height: 60%;
+}
+
+image{
+    max-width: fit-content;
+}
+header{
+    background-color: #e4e8ee;
+    font-size: large;
+}
+
+
+    
+ 
+
+body{
+    background-color: #e3e7ec;
+    font-family: sans-serif;
+    font-size: 1em;
+    color:#131111;
+    margin-left: 5%;
+    margin-top: 3%;
+    justify-content: center;
+   padding-left: none;
+   padding-top: 1%;
+   line-height: 50%;
+   
+
+}
+
+
+fieldset{
+    width:80%;
+    height: 50%;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    background-color: rgb(204, 198, 192);
+    border-radius: 10px;
+    padding: .5rem;
+    margin: 1px;
+
+}
+
+div{
+    text-align: left;
+    display: contents;
+   font-size: 100%;
+   line-height:0cap;
+   letter-spacing:1%;
+   word-wrap: break-word;
+   white-space: pre-line;
+  
+  
+}
+input{
+    width: 80%;
+    padding: 60px;
+    margin: 0.1px;;
+    font-size: 100%;
+    outline: auto;
+  
+    
+
+}
+li{
+    list-style: circle;
+}
+button{
+    color: rgb(31, 29, 29);
+    background-color: rgb(144, 144, 144);
+    background-size: 30%;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-weight: bold;
+    transition: all .2s ease-in-out;
+    outline: none;
+    width: 10%;
+}
+table {
+
+    width: 46%;
+    height: 60%;
+    table-layout:fixed;
+    position:relative;
+    top: 0%;
+    display:block;
+    overflow:visible
+    
+    
+    
+   
+  
+    
+
+ 
+    
+
+  }
+
+  th, td {
+    text-align: center;
+    padding: 20px;
+    width: 12px;
+
+  }
+
+  th {
+    background-color: #c85858;
+  }
+
+  td {
+    border: 1px solid #2935a0;
+  }
+
+.form-group{
+    display: flex;
+    flex-direction: row;
+}
+footer{
+    position: center;
+    bottom: 0;
+    width: 100%;
+    height: 6vh;
+
+
+
+}
