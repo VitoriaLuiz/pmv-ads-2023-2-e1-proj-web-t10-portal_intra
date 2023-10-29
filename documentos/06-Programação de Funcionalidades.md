@@ -2,8 +2,6 @@
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
 ### Calendário (RF-01)
 
 <figure> 
