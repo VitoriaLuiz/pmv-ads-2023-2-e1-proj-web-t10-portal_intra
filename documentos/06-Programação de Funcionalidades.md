@@ -70,7 +70,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ### Denúncias (RF-07)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Calend%C3%A1rio.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Den%C3%BAncias.PNG"
     <figcaption>Figura 5 - Home Page</figcaption>
 </figure> 
 
