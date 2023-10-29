@@ -77,17 +77,16 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
-
+A aplicação deve permitir o registro anônimo de ocorrências/denúncias que deverão ser encaminhadas para e-mails específicos de acordo com a estrutura da empresa.
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
+●denuncia.html
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+●[denuncia.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
+
 
 
 #### Instruções de acesso
