@@ -37,7 +37,10 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Destaques (RF-02)
 
-[Adicione imagem da funcionalidade/tela]
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Calend%C3%A1rio.png"
+    <figcaption>Figura 5 - Home Page</figcaption>
+</figure> 
 
 
 #### Requisito atendido
@@ -66,7 +69,10 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Denúncias (RF-07)
 
-[Adicione imagem da funcionalidade/tela]
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Calend%C3%A1rio.png"
+    <figcaption>Figura 5 - Home Page</figcaption>
+</figure> 
 
 
 #### Requisito atendido
