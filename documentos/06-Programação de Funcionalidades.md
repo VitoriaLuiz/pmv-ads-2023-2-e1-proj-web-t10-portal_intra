@@ -8,7 +8,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Adicione imagem da funcionalidade/tela]
 <figure> 
-  <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/5402fe11cbb7e5e9b3a73b71a829f23a67aa3c46/documentos/img/Calend%C3%A1rio.png)"
+  <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png]"
     <figcaption>Figura 5 - Home Page</figcaption>
 </figure> 
 
