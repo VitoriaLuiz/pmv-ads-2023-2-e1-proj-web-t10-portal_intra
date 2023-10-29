@@ -8,7 +8,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Adicione imagem da funcionalidade/tela]
 <figure> 
-  <img src="[https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png]"
+  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
     <figcaption>Figura 5 - Home Page</figcaption>
 </figure> 
 
