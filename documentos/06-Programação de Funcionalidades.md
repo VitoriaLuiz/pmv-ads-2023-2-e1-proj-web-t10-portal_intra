@@ -96,6 +96,5 @@ Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/I
 
 
 #### Responsável
-
-Responsável: Mayara Pinheiro
+Mayara Pinheiro
 
