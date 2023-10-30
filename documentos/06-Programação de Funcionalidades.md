@@ -1,6 +1,7 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+Implementação da aplicação descritas por meio dos requisitos codificados.
+<br>
 
 ### Enquete (RF-06)
 
@@ -11,12 +12,12 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Requisito atendido
 
-A aplicação deve permitir a criação de enquetes com botões para votação
+A aplicação deve permitir a criação de enquetes com botões para votação.
 
 
 #### Artefatos da funcionalidade
 
-● Portal Intra (Formulario Enquete).html
+● Portal Intra (Formulario Enquete).html<br>
 ● Portal Intra (Formulario Enquete).css
 
 #### Estrutura de Dados
@@ -31,7 +32,9 @@ Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/I
 
 #### Responsável
 
-Jonathan Vaz de Avellar
+Jonathan Vaz de Avelar
+
+<br>
 
 ### Denúncias (RF-07)
 
@@ -64,6 +67,7 @@ Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/I
 #### Responsável
 Mayara Pinheiro
 
+<br>
 ###  (RF-09)
 
 <figure> 
@@ -79,8 +83,8 @@ A aplicação deve ser acessada por meio do input de usuário e senha
 
 #### Artefatos da funcionalidade
 
-●login.html
-●login.css
+●login.html<br>
+●login.css<br>
 ●login.js
 
 
