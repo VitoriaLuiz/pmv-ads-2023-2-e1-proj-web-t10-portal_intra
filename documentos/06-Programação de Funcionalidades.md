@@ -85,7 +85,7 @@ A aplicação deve permitir o registro anônimo de ocorrências/denúncias que d
 
 #### Estrutura de Dados
 
-●[denuncia.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
+●[denuncia.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/denuncia.html)
 
 
 
