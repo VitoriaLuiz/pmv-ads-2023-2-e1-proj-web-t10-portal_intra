@@ -77,7 +77,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Requisito atendido
 
-A aplicação deve permitir o registro anônimo de ocorrências/denúncias que deverão ser encaminhadas para e-mails específicos de acordo com a estrutura da empresa.
+A aplicação deve permitir o registro anônimo de ocorrências/denúncias que deverão ser encaminhadas para e-mail(s) específico(s) de acordo com a estrutura da empresa.
 
 #### Artefatos da funcionalidade
 
