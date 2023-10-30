@@ -5,7 +5,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ### Enquete (RF-06)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Enquete.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Enquete%20(2).png"
     <figcaption>Figura xx - Tela de Enquete </figcaption>
 </figure> 
 
@@ -21,7 +21,7 @@ A aplicação deve permitir a criação de enquetes com botões para votação
 
 #### Estrutura de Dados
 
-●[denuncia.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Portal%20Intra%20(Formulario%20Enquete).html)
+●[Criar Enquete.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Portal%20Intra%20(Formulario%20Enquete).html)
 
 
 #### Instruções de acesso
@@ -32,38 +32,6 @@ Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/I
 #### Responsável
 
 Jonathan Vaz de Avellar
-
-### Destaques (RF-02)
-
-<figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Calend%C3%A1rio.png"
-    <figcaption>Figura 5 - Home Page</figcaption>
-</figure> 
-
-
-#### Requisito atendido
-
-[RF-X: adicione a descrição do requisito atendido]
-
-
-#### Artefatos da funcionalidade
-
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
-
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
-#### Instruções de acesso
-
-[Adicione as orientações de acesso à funcionalidade]
-
-
-#### Responsável
-
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
 ### Denúncias (RF-07)
 
@@ -95,4 +63,39 @@ Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/I
 
 #### Responsável
 Mayara Pinheiro
+
+###  (RF-09)
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Tela%20Login.jpg"
+    <figcaption>Figura XX - Tela de Login</figcaption>
+</figure> 
+
+
+#### Requisito atendido
+
+A aplicação deve ser acessada por meio do input de usuário e senha
+
+
+#### Artefatos da funcionalidade
+
+●login.html
+●login.css
+●login.js
+
+
+#### Estrutura de Dados
+
+●[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/login.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/login.html
+Preencha os dados de acesso e clique "Entrar"
+
+
+#### Responsável
+
+Saulo Lima
 
