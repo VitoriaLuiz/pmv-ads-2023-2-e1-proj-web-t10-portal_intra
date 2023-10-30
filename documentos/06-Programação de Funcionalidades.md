@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados.
+Implementação da aplicação descrita por meio dos requisitos codificados.
 <br>
 
 ### Enquete (RF-06)
