@@ -28,7 +28,7 @@ A aplicação deve permitir a criação de enquetes com botões para votação.
 #### Instruções de acesso
 
 Após acesso ao sistema, clique na opção "Criar Enquetes" para ter acesso à página.
-Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Portal%20Intra%20(Formulario%20Enquete).html
+Ou abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Portal%20Intra%20(Formulario%20Enquete).html
 
 #### Responsável
 
@@ -61,7 +61,7 @@ A aplicação deve permitir o registro anônimo de ocorrências/denúncias que d
 #### Instruções de acesso
 
 Após acesso ao sistema, clique na opção "Realizar denúncia" para ter acesso ao formulário para reporte da ocorrência.
-Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/denuncia.html
+Ou abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/denuncia.html
 
 
 #### Responsável
@@ -78,7 +78,7 @@ Mayara Pinheiro
 
 #### Requisito atendido
 
-A aplicação deve ser acessada por meio do input de usuário e senha
+A aplicação deve ser acessada por meio do input de usuário e senha.
 
 
 #### Artefatos da funcionalidade
@@ -95,8 +95,7 @@ A aplicação deve ser acessada por meio do input de usuário e senha
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/login.html
-Preencha os dados de acesso e clique "Entrar".
+Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/login.html. Preencha os dados de acesso e clique "Entrar".
 
 
 #### Responsável
