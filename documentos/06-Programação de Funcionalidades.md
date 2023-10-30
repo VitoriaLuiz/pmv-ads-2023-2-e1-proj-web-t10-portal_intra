@@ -96,7 +96,7 @@ A aplicação deve ser acessada por meio do input de usuário e senha
 #### Instruções de acesso
 
 Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/login.html
-Preencha os dados de acesso e clique "Entrar"
+Preencha os dados de acesso e clique "Entrar".
 
 
 #### Responsável
