@@ -71,7 +71,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Den%C3%BAncias.PNG"
-    <figcaption>Figura 5 - Home Page</figcaption>
+    <figcaption>Figura xx - Tela para registro de denúncias </figcaption>
 </figure> 
 
 
@@ -91,17 +91,11 @@ A aplicação deve permitir o registro anônimo de ocorrências/denúncias que d
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Após acesso ao sistema, clique na opção "Realizar denúncia" para ter acesso ao formulário para reporte da ocorrência.
+Ou, abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/denuncia.html
 
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
-
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+Responsável: Mayara Pinheiro
 
