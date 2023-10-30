@@ -7,7 +7,7 @@ Implementação da aplicação descrita por meio dos requisitos codificados.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Enquete%20(2).png"
-    <figcaption>Figura xx - Tela de Enquete </figcaption>
+    <figcaption>Figura 10 - Tela de Enquete </figcaption>
 </figure> 
 
 #### Requisito atendido
@@ -40,7 +40,7 @@ Jonathan Vaz de Avelar
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Den%C3%BAncias.PNG"
-    <figcaption>Figura xx - Tela para registro de denúncias </figcaption>
+    <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
 </figure> 
 
 
@@ -72,7 +72,7 @@ Mayara Pinheiro
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Tela%20Login.jpg"
-    <figcaption>Figura XX - Tela de Login</figcaption>
+    <figcaption>Figura 12 - Tela de Login</figcaption>
 </figure> 
 
 
