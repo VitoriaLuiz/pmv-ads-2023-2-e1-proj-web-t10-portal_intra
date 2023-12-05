@@ -1,20 +1,23 @@
 # Plano de Testes de Software
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
+Pré-requisitos: Especificação do Projeto, Projeto de Interface
+Os requisitos para realização dos testes de software são:
+Site publicado na internet;
+Navegador da internet: Chrome
+Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
+Caso de teste	Requisitos associados	Objetivo do teste	Passos	Critérios de êxito	Responsável
+CT-01: Verificar o funcionamento dos links da página Home	[ok]
+RF-001: O site deve permitir ao usuário cadastrar uma conta.[ok]
+RF-002: O site deve permitir ao usuário fazer o login da sua conta.
+RF-01	A aplicação deve possuir calendário contendo opção de registro de informações nas datas[ok]
+RF-05	A aplicação deve permitir a criação de fóruns contendo botões para resposta em texto [ok]
+RF-08	A aplicação deve permitir o cadastro de usuários[ok]
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente[ok]
+
+Acessar o navegador.[ok]
+
+Visualizar a página Home.[ok]
+
+Todos os links da página Home devem encaminhar os usuários para as páginas descritas.	[ok]
