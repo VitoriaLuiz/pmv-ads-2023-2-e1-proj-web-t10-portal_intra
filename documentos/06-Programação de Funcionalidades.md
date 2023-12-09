@@ -87,6 +87,62 @@ Mayara Pinheiro
 
 <br>
 
+### Customização (RF-04)
+
+............
+
+#### Requisito atendido
+
+A aplicação deve permitir a customização de cores e planos de fundo do Portal.
+
+#### Artefatos da funcionalidade
+
+●............
+
+#### Estrutura de Dados
+
+●
+
+
+
+#### Instruções de acesso
+
+Após acesso ao sistema, no canto superior direito da Home Page, clique nas opções de cores par customizar. Ou abra um navegador de Internet e informe a seguinte URL: ..................
+
+
+#### Responsável
+Saulo Lima
+
+<br>
+
+### Fóruns (RF-05)
+
+............
+
+#### Requisito atendido
+
+A aplicação deve permitir a criação de fóruns contendo botões para resposta em texto.
+
+#### Artefatos da funcionalidade
+
+●............
+
+#### Estrutura de Dados
+
+●
+
+
+
+#### Instruções de acesso
+
+Após acesso ao sistema, no cabeçalho, clique na opção "Fóruns e Enquetes" para acessar e no botão "Criar Fórum" para criação. Ou abra um navegador de Internet e informe a seguinte URL: ..................
+
+
+#### Responsável
+Mayara Pinheiro
+
+<br>
+
 ### Enquete (RF-06)
 
 <figure> 
@@ -152,6 +208,36 @@ Ou abra um navegador de Internet e informe a seguinte URL: https://github.com/IC
 Mayara Pinheiro
 
 <br>
+
+### Calendário (RF-08)
+
+............
+
+#### Requisito atendido
+
+A aplicação deve permitir o cadastro de usuários.
+
+#### Artefatos da funcionalidade
+
+●............
+
+#### Estrutura de Dados
+
+●
+
+
+
+#### Instruções de acesso
+
+Após acesso ao sistema, ...........
+
+
+#### Responsável
+Saulo Lima
+
+<br>
+
+
 ###  (RF-09)
 
 <figure> 
