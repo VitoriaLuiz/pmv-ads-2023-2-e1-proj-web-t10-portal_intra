@@ -209,7 +209,7 @@ Mayara Pinheiro
 
 <br>
 
-### Calendário (RF-08)
+### Cadastro de Usuários (RF-08)
 
 ............
 
