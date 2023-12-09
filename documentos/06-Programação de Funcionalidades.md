@@ -3,6 +3,90 @@
 Implementação da aplicação descrita por meio dos requisitos codificados.
 <br>
 
+### Calendário (RF-01)
+
+............
+
+#### Requisito atendido
+
+A aplicação deve possuir calendário contendo opção de registro de informações nas datas.
+
+#### Artefatos da funcionalidade
+
+●............
+
+#### Estrutura de Dados
+
+●
+
+
+
+#### Instruções de acesso
+
+Após acesso ao sistema, no lado direito da Home Page, clique no botão de "Adicionar evento" para incluir itens nas datas.
+Ou abra um navegador de Internet e informe a seguinte URL: ..................
+
+
+#### Responsável
+Jonathan Vaz de Avelar
+
+<br>
+
+### Destaques (RF-02)
+
+............
+
+#### Requisito atendido
+
+A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.
+
+#### Artefatos da funcionalidade
+
+●............
+
+#### Estrutura de Dados
+
+●
+
+
+#### Instruções de acesso
+
+Após acesso ao sistema, na Home Page, clique no botão de "Adicionar destaque" para incluir informações relevantes.
+Ou abra um navegador de Internet e informe a seguinte URL: ..................
+
+
+#### Responsável
+Jonathan Vaz de Avelar
+
+<br>
+
+### Segmentos (RF-03)
+
+............
+
+#### Requisito atendido
+
+A aplicação deve permitir a criação de abas para input de informações segmentadas.
+
+#### Artefatos da funcionalidade
+
+●............
+
+#### Estrutura de Dados
+
+●
+
+
+#### Instruções de acesso
+
+Após acesso ao sistema, na Home Page, abaixo dos destaques, clique no segmento desejado, e no botão "Adicionar", para incluir informações sobre um tema específico. Ou abra um navegador de Internet e informe a seguinte URL: ..................
+
+
+#### Responsável
+Mayara Pinheiro
+
+<br>
+
 ### Enquete (RF-06)
 
 <figure> 
