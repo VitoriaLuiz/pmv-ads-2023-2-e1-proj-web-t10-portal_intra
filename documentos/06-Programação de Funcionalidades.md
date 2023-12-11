@@ -226,7 +226,7 @@ Saulo Lima de Carvalho
 <br>
 
 
-###  (RF-09)
+### Acesso à aplicação (RF-09)
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Tela%20Login.jpg"
