@@ -5,36 +5,18 @@ Implementação da aplicação descrita por meio dos requisitos codificados.
 
 ### Calendário (RF-01)
 
-............
+Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
 
-#### Requisito atendido
+#### Requisito não atendido
 
 A aplicação deve possuir calendário contendo opção de registro de informações nas datas.
 
-#### Artefatos da funcionalidade
-
-●............
-
-#### Estrutura de Dados
-
-●
-
-
-
-#### Instruções de acesso
-
-Após acesso ao sistema, no lado direito da Home Page, clique no botão de "Adicionar evento" para incluir itens nas datas.
-Ou abra um navegador de Internet e informe a seguinte URL: ..................
-
-
-#### Responsável
-Jonathan Vaz de Avelar
 
 <br>
 
 ### Destaques (RF-02)
 
-............
+
 
 #### Requisito atendido
 
