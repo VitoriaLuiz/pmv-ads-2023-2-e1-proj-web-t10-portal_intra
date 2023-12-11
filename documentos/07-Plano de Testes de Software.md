@@ -23,7 +23,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>
    <ul>
    <li>RF-002:	A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado</li>
-   <li>RF-002:	A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.</li>
    <li>RF-003:	A aplicação deve permitir a criação de abas para input de informações segmentadas.</li>
    <li>RF-004:	A aplicação deve permitir a customização de cores e planos de fundo do Portal.</li>
    <li>RF-006:	A aplicação deve permitir a criação de enquetes com botões para votação.</li>
