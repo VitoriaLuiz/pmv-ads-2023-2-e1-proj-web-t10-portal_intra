@@ -19,10 +19,6 @@ A aplicação deve possuir calendário contendo opção de registro de informaç
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/in%C3%ADcio1.png"
 </figure> 
 
-
-  <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.PNG"
-</figure> 
 #### Requisito atendido
 
 A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.
@@ -49,6 +45,9 @@ Saulo Lima de Carvalho e Jonathan Vaz de Avelar
 
 ### Segmentos (RF-03)
 
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.png"
+</figure> 
 #### Requisito atendido
 
 A aplicação deve permitir a criação de abas para input de informações segmentadas.
@@ -75,7 +74,7 @@ Mayara Pinheiro
 
 ### Customização (RF-04)
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/giphy.mp4">"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/in%C3%ADcio1.png">"
     <figcaption></figcaption>
 </figure> 
 
@@ -106,10 +105,6 @@ Saulo Lima de Carvalho
 
 ### Fóruns (RF-05)
 
-<figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/enquete.jpg"
-    <figcaption></figcaption>
-</figure> 
 
 Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
 
@@ -119,12 +114,7 @@ A aplicação deve permitir a criação de fóruns contendo botões para respost
 
 #### Artefatos da funcionalidade
 
-
-
 #### Estrutura de Dados
-
-●
-
 
 
 #### Instruções de acesso
@@ -172,13 +162,13 @@ Jonathan Vaz de Avelar e Saulo Lima de Carvalho
 ### Denúncias (RF-07)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia.PNG"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia.png"
     <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
 </figure> 
 
 ---
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia2.PNG"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia2.png"
     <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
 </figure> 
 
@@ -210,7 +200,7 @@ Mayara Pinheiro
 ### Cadastro de Usuários (RF-08)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/cadastro.PNG"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/cadastro.png"
     <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
 </figure> 
 
