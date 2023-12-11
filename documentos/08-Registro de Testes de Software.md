@@ -5,14 +5,14 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir.
 
 |Caso de Teste    | CT-A - Verificar o funcionamento dos links da página Home |
-|:---|:---|
+|:---|:------|
 | Resultados obtidos | Foi validado que todos os links da página Home estão funcionando.  |
 | Responsável pela execução do caso de Teste | Jonathan |
 
 <br>
 
 |Caso de Teste    | CT-B - Verificar o funcionamento do carrossel dos Destaques |
-|:---|:---|
+|:---|:------|
 | Resultados obtidos | Foi validado que as imagens dos destaques estão alternando em estilo carrossel.|
 | Responsável pela execução do caso de Teste | Saulo |
 
