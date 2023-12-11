@@ -9,9 +9,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Foi validado que todos os links da página Home estão funcionando.|
 | Responsável pela execução do caso de Teste | Jonathan |
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/in%C3%ADcio1.png
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/in%C3%ADcio1.png"
+</figure> 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.png
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.png"
+</figure>
 
 
 
