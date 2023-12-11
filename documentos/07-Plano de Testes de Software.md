@@ -248,21 +248,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    <li>RF-009	A aplicação deve ser acessada por meio do input de usuário e senha</li>
    </ul>
   </td>
-  <td>Verificar se é possível acessar aplicação</td>
+  <td>Verificar se é possível acessar aplicação por meio do input de usuário e senha. </td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
     <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em “Tutores”, no menu.</li>
-    <li>Visualizar a página "Tutores".</li>
-    <li>Na página "Tutores", é possível visualizar os perfis com foto e informações dos tutores, além da barra de pesquisa acima dos perfis.</li>
-  
+    <li>Visualizar a página de acesso. </li>
+    <li>Preencher usuário e senha.</li>
+    <li>Clicar no botão "Entrar".</li>
    </ul>
    </ol>
    </td>
-  <td>Deve ser possível visualizar todos os perfis de Tutores, com suas respectivas fotos e informações, além da visualização da barra de pesquisa acima dos perfis.</td>
-  <td>Pedro</td>
+  <td>Deve ser possível acessar a aplicação após input de usuário e senha.</td>
+  <td>Mayara</td>
  </tr>
 </table>
 
@@ -276,32 +274,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-09: Verificar a página de perfil de usuários cadastrados</td>
-  <td>
-   <ul>
-   <li>RF-009	O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.</li>
-   </ul>
-  </td>
-  <td>Verificar se a página Perfil está apresentando as informações cadastradas pelo usuário corretamente. </td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar em "Cadastre-se", no Menu.</li>
-    <li>Preencher o formulário e clicar em “Cadastrar”.</li>
-    <li>Visualizar a página Login.</li>
-    <li>Preencher seus dados e clicar em “Entrar”.</li>
-    <li>Visualizar a página Perfil.</li>
-   </ol>
-   </td>
-  <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
-  <td>Silvia</td>
- </tr>
-</table>
-
-
-
+ 
 
 
 
