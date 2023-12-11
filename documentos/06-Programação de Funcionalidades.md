@@ -27,7 +27,8 @@ A aplicação deve permitir a publicação de informações de destaque em texto
 #### Artefatos da funcionalidade
 
 ● HomePage Portal Intra.html<br>
-● HomePage Portal Intra.css
+● HomePage Portal Intra.css<br>
+● login.js
 
 #### Estrutura de Dados
 
@@ -58,7 +59,8 @@ A aplicação deve permitir a criação de abas para input de informações segm
 #### Artefatos da funcionalidade
 
 ● HomePage Portal Intra.html<br>
-● HomePage Portal Intra.css
+● HomePage Portal Intra.css<br>
+● login.js
 
 #### Estrutura de Dados
 
@@ -89,7 +91,7 @@ A aplicação deve permitir a customização de cores e planos de fundo do Porta
 
 ● login.html<br>
 ● login.css<br>
-● login.js
+● login.js<br>
 ● HomePage Portal Intra.html<br>
 ● HomePage Portal Intra.css
 
@@ -136,7 +138,8 @@ A aplicação deve permitir a criação de enquetes com botões para votação.
 
 ● Portal Intra (Formulario Enquete).html<br>
 ● Portal Intra (Formulario Enquete).css<br>
-● Portal Intra (Formulario Enquete).js
+● Portal Intra (Formulario Enquete).js<br>
+● login.css
 
 #### Estrutura de Dados
 
@@ -174,7 +177,9 @@ A aplicação deve permitir o registro anônimo de ocorrências/denúncias que d
 
 #### Artefatos da funcionalidade
 
-● denuncia.html
+● denuncia.html<br>
+● login.css<br>
+● HomePage Portal Intra.css
 
 #### Estrutura de Dados
 
@@ -206,8 +211,9 @@ A aplicação deve permitir o cadastro de usuários.
 
 #### Artefatos da funcionalidade
 
-●Cadastro de Usuário.html
-●Cadastro de Usuário.css
+●Cadastro de Usuário.html<br>
+●Cadastro de Usuário.css<br>
+●HomePage (Portal Intra).css
 
 #### Estrutura de Dados
 
