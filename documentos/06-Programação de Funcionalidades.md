@@ -15,7 +15,13 @@ A aplicação deve possuir calendário contendo opção de registro de informaç
 <br>
 
 ### Destaques (RF-02)
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio1.PNG"
+</figure> 
 
+  <figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.PNG"
+</figure> 
 #### Requisito atendido
 
 A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.
@@ -101,7 +107,7 @@ Saulo Lima de Carvalho
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/enquete.jpg"
-    <figcaption>Figura 12 - Tela de Login</figcaption>
+    <figcaption></figcaption>
 </figure> 
 
 Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
