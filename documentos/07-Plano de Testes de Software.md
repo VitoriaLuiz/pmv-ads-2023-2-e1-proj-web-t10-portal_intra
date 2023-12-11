@@ -22,10 +22,12 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>CT-01: Verificar o funcionamento dos links da página Home</td>
   <td>
    <ul>
-    <li>RF-001:	O site deve permitir ao usuário cadastrar uma conta.</li>
+   <li>RF-002:	A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado</li>
    <li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
-   <li>RF-005:	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
+   <li>RF-003:	A aplicação deve permitir a criação de abas para input de informações segmentadas.</li>
+   <li>RF-004:	A aplicação deve permitir a customização de cores e planos de fundo do Portal.</li>
+   <li>RF-005:	A aplicação deve permitir a customização de cores e planos de fundo do Portal.</li>
+   <li>RF-006:	A aplicação deve permitir a customização de cores e planos de fundo do Portal.</li> 
    </ul>
   </td>
   <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
