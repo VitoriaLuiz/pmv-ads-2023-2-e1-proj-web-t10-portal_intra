@@ -20,6 +20,7 @@ A aplicação deve possuir calendário contendo opção de registro de informaç
 </figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.
 
@@ -48,7 +49,9 @@ Saulo Lima de Carvalho e Jonathan Vaz de Avelar
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.png"
 </figure> 
+
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a criação de abas para input de informações segmentadas.
 
@@ -78,6 +81,7 @@ Mayara Pinheiro
 </figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a customização de cores e planos de fundo do Portal.
 
@@ -123,6 +127,7 @@ A aplicação deve permitir a criação de fóruns contendo botões para respost
 </figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a criação de enquetes com botões para votação.
 
@@ -163,6 +168,7 @@ Jonathan Vaz de Avelar e Saulo Lima de Carvalho
 </figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir o registro anônimo de ocorrências/denúncias que deverão ser encaminhadas para e-mail(s) específico(s) de acordo com a estrutura da empresa.
 
