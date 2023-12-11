@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="Cadastro de Usuario.css" 
+</head>
+<body>
+  <h1>Cadastro de Usuario</h1>
+  <P style="font-size: 30%; font-family: 'Times New Roman', Times, serif;"></P>
+    
+    <nav>
+      <ul>
+        <li>
+            <a href="./HomePage Portal Intra.html">Inicio</a>
+        </li>
+        <li>
+            <a href="./Portal Intra (Formulario Enquete).html">Criar Enquete</a>
+        </li>
+        <li>
+            <a href="./denuncia.html">Gerar Denuncias</a>
+        </li>
+        <li>
+            <a href="./Cadastro de Usuario.html">Criar Usuario</a>
+        </li>
+        <li>
+            <a href="./login.html">Sair</a>
+        </li>
+        <li id="temas">
+        <section>
+            <div class="container">
+                <button class="tema1" id="btn-tema1"></button>
+                <button class="tema2" id="btn-tema2"></button>
+                <button class="tema3" id="btn-tema3"></button>
+            </div>
+        </section>
+    </li>
+    </ul>
+    </nav>
+    
+    
+    </section>
+
+    <form id="form" class="form" onsubmit="return validarFormulario()">
+      <div class="form-content">
+        <label for="username">Nome do usuário</label>
+        <input
+          class="form-group"
+          type="text"
+          id="username"
+          placeholder="Digite o nome do usuario..."
+        />
+        
+      </div>
+
+      <div class="form-content">
+        <label for="email">Email</label>
+        <input
+          class="form-group"
+          type="email"
+          id="email"
+          placeholder="Digite o seu email..."
+        />
+       
+      </div>
+
+      <div class="form-content">
+        <label for="password">Senha</label>
+        <input
+          class="form-group"
+          type="password"
+          id="password"
+          placeholder="Digite sua senha..."
+        />
+      
+      </div>
+
+      <div class="form-content">
+        <label for="password-confirmation">Confirmação de senha</label>
+        <input
+          class="form-group"
+          type="password"
+          id="password-confirmation"
+          placeholder="Digite sua senha novamente..."
+        />
+       
+      </div>
+    <center>
+      <button id="cadastro", type="submit" class="btn btn-success">Cadastrar</button>
+    </center>
+
+    </form>
+
+  </div>
+  
+  
+  <script src="login.js"></script>
+  <script>
+    function validarFormulario() {
+      var btnCadastro = document.querySelector('#cadastro');
+      var username = document.getElementById('username').value;
+      var email = document.getElementById('email').value;
+      var password = document.getElementById('password').value;
+      var passwordConfirmation = document.getElementById('password-confirmation').value;
+
+      if (username === '' || email === '' || password === '' || passwordConfirmation === '') {
+        alert('Por favor, preencha todos os campos.');
+        return false;
+      }
+
+      if (password !== passwordConfirmation) {
+        alert('A senha e a confirmação de senha não correspondem.');
+        return false;
+      }
+
+      btnCadastro.addEventListener('click', alert('Usuário cadastrado com sucesso!'))
+
+      return true; 
+    }
+  </script>  
+    
+</body>
+</html>

@@ -3,83 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="testes.css"
+    <link rel="stylesheet" type="text/css" href="Portal Intra (Formulario Enquete).css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <title>PORTAL INTRA</title>
     <p style="font-size: 1px; font-family: 'Times New Roman', Times, serif;"></p>
 </head>
 
 <body>
-    <ul>
-
-    </ul>
     <nav>
         <ul>
             <li>
-                <a href="">Inicio</a>
+                <a href="./HomePage Portal Intra.html">Inicio</a>
             </li>
             <li>
-                <a href="">Criar Enquete</a>
+                <a href="./Portal Intra (Formulario Enquete).html">Criar Enquete</a>
             </li>
             <li>
-                <a href="">Gerar Denuncias</a>
+                <a href="./denuncia.html">Gerar Denuncias</a>
             </li>
             <li>
-                <a href="">Criar Usuario</a>
+                <a href="./Cadastro de Usuario.html">Criar Usuario</a>
             </li>
             <li>
-                <a href="">Sair</a>
+                <a href="./login.html">Sair</a>
             </li>
+            
             
         </ul>
 
 
     </nav>
-    <CENTER>
+    <center>
     <section>Criar Enquete</section>
-    </CENTER>
+    </center>
     <p style="font-size: 20px; font-family: 'Times New Roman', Times, serif;"></p>
-    <ul>
-
-    </ul>
-    <header>Titulo da Enquete:</header>
+    <h1>Titulo da Enquete:</h1>
     <P style="font-size: 30%; font-family: 'Times New Roman', Times, serif;"></P>
+    <center >
     <ul>
-
-    </ul>
-    <section> </section>
-    <input type="text" name="tema da Enquete" id="tema da Enquete"required>
+    </center>
+    <input class="form-group" type="text" name="tema da Enquete" id="tema da Enquete"required>
+</ul >
     <p style="font-size: 20%; font-family: 'sans-serif', sans-serif;"></p>
     <ul>
 
     </ul>
 </fieldset> 
-    <article> TEMA A SER DISCUTIDO</article>
+    <article> TEMAS A SEREM DISCUTIDOS</article>
+    <br>
     <p style="font-size: 10px; font-family: 'sans-serif', sans-serif;"></p>
 </fieldset>
     <ul>
 
     </ul>
-    <fieldset>
-        <div>
-        <li> Opção A </li>
+    <form class="mx-auto">
+        <div class="opcoes" >
+        <div class="form-group">
+        <li> Opção A -> </li>
+        <br>
         <input type="text" name="Opção A" id="Opção A"required>
         <p style="font-size: 10px; font-family: 'sans-serif', sans-serif;"></p>
-        <li> Opção B</li>
+        </div>
+        <div class="form-group">
+        <li> Opção B ->  </li>
         <input type="text" name="Opção B" id="Opção B"required>
         <p style="font-size: 10px; font-family: 'sans-serif', sans-serif;"></p>
-        <li> Opção C</li>
-        <input type="text" name="Opção C" id="Opção C"required>
+        </div>
+        <div class="form-group">
+        <li> Opção C -></li>
+        <input type="text"  name="Opção C" id="Opção C"required>
         <p style="font-size: 10px; font-family: 'sans-serif', sans-serif;"></p>
+        </div>
+    </div>    
     </div>
-    </fieldset>
+    </form class="mx-auto form-group">
         <ul>
             <footer>
-            <center>
-                <button type="submit">PUBLICAR</button>
+                <button type="submit" class="btn btn-success">PUBLICAR</button>
                 <p style="font-size: 50%; font-family: sans-serif;"></p>
-            </center>
         </footer>
-  
-    
+
+        <script src="login.js"></script>
 </body>
 </html>

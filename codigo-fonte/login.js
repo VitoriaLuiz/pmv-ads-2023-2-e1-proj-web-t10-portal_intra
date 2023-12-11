@@ -1,3 +1,57 @@
+document.addEventListener('DOMContentLoaded', function () {
+  const carouselSlide = document.querySelector('.carousel-slide');
+  const images = document.querySelectorAll('.carousel-slide img');
+  let counter = 0;
+
+  function updateCarousel() {
+      const size = images[0].clientWidth;
+      carouselSlide.style.transition = "transform 0.5s ease-in-out";
+      carouselSlide.style.transform = 'translateX(' + (-size * counter) + 'px)';
+  }
+
+  function showImage(index) {
+      images.forEach((image, i) => {
+          if (i === index) {
+              image.classList.add('active');
+          } else {
+              image.classList.remove('active');
+          }
+      });
+  }
+
+  function prevSlide() {
+      if (counter > 0) {
+          counter--;
+      } else {
+          counter = images.length - 1;
+      }
+      updateCarousel();
+      showImage(counter);
+  }
+
+  function nextSlide() {
+      if (counter < images.length - 1) {
+          counter++;
+      } else {
+          counter = 0;
+      }
+      updateCarousel();
+      showImage(counter);
+  }
+
+  function autoSlide() {
+      nextSlide();
+  }
+
+  document.getElementById('prevBtn').addEventListener('click', prevSlide);
+  document.getElementById('nextBtn').addEventListener('click', nextSlide);
+
+  updateCarousel(); // Exibir a imagem inicial
+  showImage(counter); // Exibir a imagem inicial com opacidade
+
+  setInterval(autoSlide, 5000);
+});
+
 function login() {
   var username = document.getElementById('usernameInput').value
   var password = document.getElementById('passwordInput').value
@@ -34,7 +88,7 @@ function login() {
 
       // Redireciona para a tela de usuário
       window.location.href =
-        'pages/home.html?username=' + encodeURIComponent(username)
+        './HomePage Portal Intra.html?username=' + encodeURIComponent(username)
     
   } else  {
     alert('Usuário ou senha inválidos. Tente novamente.')
@@ -53,6 +107,8 @@ const laranja = document.getElementById("btn-tema1");
   document.getElementById("btn-tema3").addEventListener("click", function(){
     document.querySelector("body").setAttribute("class", "tema3");
   })
+
+
 
 
 ////////////////////////// ///////////////////////////////////////
