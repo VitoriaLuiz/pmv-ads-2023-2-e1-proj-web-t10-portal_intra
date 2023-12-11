@@ -14,7 +14,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-B - Verificar o funcionamento do carrossel dos Destaques |
 |:---|:---|
 | Resultados obtidos | Foi validado que as imagens dos destaques estão alternando em estilo carrossel.|
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+| Responsável pela execução do caso de Teste | Saulo |
 
 <br>
 
