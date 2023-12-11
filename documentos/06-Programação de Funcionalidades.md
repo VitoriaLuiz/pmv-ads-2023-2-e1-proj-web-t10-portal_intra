@@ -16,7 +16,10 @@ A aplicação deve possuir calendário contendo opção de registro de informaç
 
 ### Destaques (RF-02)
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio1.PNG"
+  <img src="./img/inicio1.png"
+</figure> 
+<figure> 
+  <img src="./img/inicio2.png"
 </figure> 
 
   <figure> 
