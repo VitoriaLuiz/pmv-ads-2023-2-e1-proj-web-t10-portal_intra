@@ -208,7 +208,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-G: Verificar o cadastro de tutores</td>
+  <td>CT-G: Realizar cadastro de usuários. </td>
   <td>
    <ul>
    <li>RF-008	A aplicação deve permitir o cadastro de usuários.</li>
