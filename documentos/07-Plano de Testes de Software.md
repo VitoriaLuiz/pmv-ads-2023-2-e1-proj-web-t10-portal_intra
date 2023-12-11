@@ -1,4 +1,4 @@
-# Plano de Testes de Software
+# Plano de Testes de Software (ATUALIZAÇÃO)
 
 <span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a>
 
@@ -277,7 +277,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 
 
-# Plano de Testes de Software
+# Plano de Testes de Software (VERSÃO ANTIGA)
 
 Pré-requisitos: Especificação do Projeto, Projeto de Interface
 
