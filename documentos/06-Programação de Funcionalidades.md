@@ -93,11 +93,16 @@ Após acesso ao sistema, no canto superior direito da Home Page, clique nas opç
 (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 #### Responsável
-Saulo Lima
+Saulo Lima de Carvalho
 
 <br>
 
 ### Fóruns (RF-05)
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/enquete.jpg"
+    <figcaption>Figura 12 - Tela de Login</figcaption>
+</figure> 
 
 Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
 
@@ -107,7 +112,7 @@ A aplicação deve permitir a criação de fóruns contendo botões para respost
 
 #### Artefatos da funcionalidade
 
-●............
+
 
 #### Estrutura de Dados
 
@@ -117,8 +122,7 @@ A aplicação deve permitir a criação de fóruns contendo botões para respost
 
 #### Instruções de acesso
 
-Após acesso ao sistema, no cabeçalho, clique na opção "Fóruns e Enquetes" para acessar e no botão "Criar Fórum" para criação. Ou abra um navegador de Internet e informe a seguinte URL: ..................
-
+Após acesso ao sistema, no cabeçalho, clique na opção "Fóruns e Enquetes" para acessar e no botão "Criar Fórum" para criação. Ou abra um navegador de Internet e informe a seguinte URL: 
 
 #### Responsável
 Mayara Pinheiro
@@ -128,7 +132,7 @@ Mayara Pinheiro
 ### Enquete (RF-06)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Enquete%20(2).png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/enquete.png"
     <figcaption>Figura 10 - Tela de Enquete </figcaption>
 </figure> 
 
@@ -154,17 +158,22 @@ Ou abra um navegador de Internet e informe a seguinte URL: https://github.com/IC
 
 #### Responsável
 
-Jonathan Vaz de Avelar
+Jonathan Vaz de Avelar e Saulo Lima de Carvalho
 
 <br>
 
 ### Denúncias (RF-07)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Den%C3%BAncias.PNG"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia.PNG"
     <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
 </figure> 
 
+---
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia2.PNG"
+    <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
+</figure> 
 
 #### Requisito atendido
 
@@ -193,7 +202,10 @@ Mayara Pinheiro
 
 ### Cadastro de Usuários (RF-08)
 
-............
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/cadastro.PNG"
+    <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
+</figure> 
 
 #### Requisito atendido
 
@@ -201,21 +213,21 @@ A aplicação deve permitir o cadastro de usuários.
 
 #### Artefatos da funcionalidade
 
-●............
+●Cadastro de Usuário.html
+●Cadastro de Usuário.css
 
 #### Estrutura de Dados
 
-●
-
+●Cadastro de Usuário.html
 
 
 #### Instruções de acesso
 
-Após acesso ao sistema, ...........
+Após acesso ao sistema, clique em cadastrar usuário após preencher os dados: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Cadastro%20de%20Usuario%20.html)
 
 
 #### Responsável
-Saulo Lima
+Saulo Lima de Carvalho
 
 <br>
 
