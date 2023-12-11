@@ -131,7 +131,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ser possível alterar as cores disponíveis para o layout do site.</td>
-  <td>Mayara</td>
+  <td>Jonatahn</td>
  </tr>
 </table>
 
@@ -162,7 +162,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ser possível simular a criação de uma enquete com opções para votação. </td>
-  <td>Jonathan</td>
+  <td>Saulo</td>
  </tr>
 
  <table>
@@ -194,7 +194,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Livro cadastrado com sucesso".</td>
-  <td>Jonathan</td>
+  <td>Mayara</td>
  </tr>
 </table>
 
@@ -227,7 +227,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Tutoria cadastrada com sucesso".</td>
-  <td>Saulo</td>
+  <td>Jonathan</td>
  </tr>
 </table>
  
@@ -259,7 +259,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ser possível acessar a aplicação após input de usuário e senha.</td>
-  <td>Mayara</td>
+  <td>Saulo</td>
  </tr>
 </table>
 
