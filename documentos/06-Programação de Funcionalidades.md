@@ -42,24 +42,23 @@ Saulo Lima de Carvalho e Jonathan Vaz de Avelar
 
 ### Segmentos (RF-03)
 
-............
-
 #### Requisito atendido
 
 A aplicação deve permitir a criação de abas para input de informações segmentadas.
 
 #### Artefatos da funcionalidade
 
-● Portal Intra 
+● HomePage Portal Intra.html
 
 #### Estrutura de Dados
 
-●
+● HomePage Portal Intra.html
+● HomePage Portal Intra.css
 
 
 #### Instruções de acesso
 
-Após acesso ao sistema, na Home Page, abaixo dos destaques, clique no segmento desejado, e no botão "Adicionar", para incluir informações sobre um tema específico. Ou abra um navegador de Internet e informe a seguinte URL: ..................
+Após acesso ao sistema, na Home Page, abaixo dos destaques, clique no segmento desejado, e no botão "Adicionar", para incluir informações sobre um tema específico. Ou abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 
 #### Responsável
@@ -69,26 +68,25 @@ Mayara Pinheiro
 
 ### Customização (RF-04)
 
-............
-
 #### Requisito atendido
 
 A aplicação deve permitir a customização de cores e planos de fundo do Portal.
 
 #### Artefatos da funcionalidade
 
-●............
+● login.html
+● login.css
+● login.js
 
 #### Estrutura de Dados
 
-●
-
-
+● login.html
+● HomePage Portal Intra.html
 
 #### Instruções de acesso
 
-Após acesso ao sistema, no canto superior direito da Home Page, clique nas opções de cores par customizar. Ou abra um navegador de Internet e informe a seguinte URL: ..................
-
+Após acesso ao sistema, no canto superior direito da Home Page, clique nas opções de cores par customizar. Ou abra um navegador de Internet e informe a seguinte URL: 
+(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 #### Responsável
 Saulo Lima
