@@ -7,7 +7,7 @@ Implementação da aplicação descrita por meio dos requisitos codificados.
 
 Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
 
-#### Requisito não atendido
+#### Requisito NÃO atendido
 
 A aplicação deve possuir calendário contendo opção de registro de informações nas datas.
 
@@ -99,9 +99,9 @@ Saulo Lima
 
 ### Fóruns (RF-05)
 
-............
+Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
 
-#### Requisito atendido
+#### Requisito NÃO atendido
 
 A aplicação deve permitir a criação de fóruns contendo botões para resposta em texto.
 
