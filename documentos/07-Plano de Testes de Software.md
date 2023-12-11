@@ -71,7 +71,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>As imagens cadastradas nos destaques devem alternar.</td>
-  <td>MSaulo</td>
+  <td>Saulo</td>
  </tr>
 </table>
 
@@ -131,7 +131,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ser possível alterar as cores disponíveis para o layout do site.</td>
-  <td>Saulo</td>
+  <td>Mayara</td>
  </tr>
 </table>
 
@@ -194,7 +194,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Livro cadastrado com sucesso".</td>
-  <td>João</td>
+  <td>Jonathan</td>
  </tr>
 </table>
 
