@@ -1,3 +1,6 @@
+ 67 changes: 18 additions & 49 deletions 67
+README.md
+@@ -1,49 +1,18 @@
 # Portal Intra
 
 Análise e Desenvolvimento de Sistemas - PUC Minas

@@ -40,19 +40,17 @@ function login() {
     alert('Usuário ou senha inválidos. Tente novamente.')
   }
 }
-var laranja = document.getElementById("btn-tema1");
-var azul = document.getElementById("btn-tema2");
-var verde = document.getElementById("btn-tema3")
+const laranja = document.getElementById("btn-tema1");
 
   laranja.addEventListener("click", function(){
     document.querySelector("body").setAttribute("class", "tema1");
   })
 
-  azul.addEventListener("click", function(){
+  document.getElementById("btn-tema2").addEventListener("click", function(){
     document.querySelector("body").setAttribute("class", "tema2");
   })
 
-  verde.addEventListener("click", function(){
+  document.getElementById("btn-tema3").addEventListener("click", function(){
     document.querySelector("body").setAttribute("class", "tema3");
   })
 
