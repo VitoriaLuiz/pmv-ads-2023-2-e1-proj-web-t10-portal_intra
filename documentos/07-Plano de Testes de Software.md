@@ -23,7 +23,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>
    <ul>
    <li>RF-002:	A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado</li>
-   <li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
+   <li>RF-002:	A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.</li>
    <li>RF-003:	A aplicação deve permitir a criação de abas para input de informações segmentadas.</li>
    <li>RF-004:	A aplicação deve permitir a customização de cores e planos de fundo do Portal.</li>
    <li>RF-006:	A aplicação deve permitir a criação de enquetes com botões para votação.</li>
@@ -59,7 +59,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>CT-B: Verificar o funcionamento do carrossel dos Destaques</td>
   <td>
    <ul>
-    <li>RF-002:	<li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
+    <li>RF-002: O site deve permitir ao usuário fazer o login da sua conta.</li>
    </ul>
   </td>
   <td>Verificar se as imagens cadastradas no destaque estão alternando em formato carrossel</td>
