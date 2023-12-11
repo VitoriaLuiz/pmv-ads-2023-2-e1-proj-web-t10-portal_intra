@@ -9,30 +9,42 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Descrever resultados do teste  |
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
+<br>
+
 |Caso de Teste    | CT-B - Segmentos |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+
+<br>
 
 |Caso de Teste    | CT-C - Customização |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
+<br>
+
 |Caso de Teste    | CT-D - Enquetes |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+
+<br>
 
 |Caso de Teste    | CT-E - Denúncias |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
+<br>
+
 |Caso de Teste    | CT-F - Cadastro de usuários |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
 | Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+
+<br>
 
 |Caso de Teste    | CT-G - Acesso |
 |:---|:---|
