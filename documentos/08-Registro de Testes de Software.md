@@ -17,6 +17,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.png"
 </figure>
 
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Segmentos.png"
+</figure>
+
 
 
 <br>
