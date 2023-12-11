@@ -16,29 +16,27 @@ A aplicação deve possuir calendário contendo opção de registro de informaç
 
 ### Destaques (RF-02)
 
-
-
 #### Requisito atendido
 
 A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.
 
 #### Artefatos da funcionalidade
 
-●............
+● HomePage Portal Intra.html
+● HomePage Portal Intra.css
 
 #### Estrutura de Dados
 
-●
-
+● HomePage Portal Intra.html
 
 #### Instruções de acesso
 
 Após acesso ao sistema, na Home Page, clique no botão de "Adicionar destaque" para incluir informações relevantes.
-Ou abra um navegador de Internet e informe a seguinte URL: ..................
+Ou abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 
 #### Responsável
-Jonathan Vaz de Avelar
+Saulo Lima de Carvalho e Jonathan Vaz de Avelar
 
 <br>
 
@@ -52,7 +50,7 @@ A aplicação deve permitir a criação de abas para input de informações segm
 
 #### Artefatos da funcionalidade
 
-●............
+● Portal Intra 
 
 #### Estrutura de Dados
 
