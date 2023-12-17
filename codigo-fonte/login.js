@@ -52,6 +52,10 @@ document.addEventListener('DOMContentLoaded', function () {
   setInterval(autoSlide, 5000);
 });
 
+function alertaEnquete() {
+  alert("Enquete criada com Sucesso!");
+}
+
 function login() {
   var username = document.getElementById('usernameInput').value
   var password = document.getElementById('passwordInput').value
@@ -61,6 +65,7 @@ function login() {
     { username: 'usuario1', password: 'senha1', nome: 'João Paulo' },
     { username: 'usuario2', password: 'senha2', nome: 'Maria Eduarda' },
     { username: 'usuario3', password: 'senha3', nome: 'Pedro Alves' },
+    { username: 'joaolucas', password: '1234', nome: 'Pedro Alves' },
     { username: 'admin', password: 'admin', nome: 'ADM Portal Intra' }
   ]
   if (username === '' || password === '') {
