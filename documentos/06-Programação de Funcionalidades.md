@@ -3,7 +3,7 @@
 Implementação da aplicação descrita por meio dos requisitos codificados.
 <br>
 
-### Calendário (RF-01)
+#### Calendário (RF-01)
 
 Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
 
@@ -15,53 +15,60 @@ A aplicação deve possuir calendário contendo opção de registro de informaç
 <br>
 
 ### Destaques (RF-02)
-
-
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/in%C3%ADcio1.png"
+</figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a publicação de informações de destaque em texto e/ou imagem em espaço dedicado.
 
 #### Artefatos da funcionalidade
 
-●............
+● HomePage Portal Intra.html<br>
+● HomePage Portal Intra.css<br>
+● login.js
 
 #### Estrutura de Dados
 
-●
-
+● [HomePage Portal Intra.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 #### Instruções de acesso
 
 Após acesso ao sistema, na Home Page, clique no botão de "Adicionar destaque" para incluir informações relevantes.
-Ou abra um navegador de Internet e informe a seguinte URL: ..................
+Ou abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 
 #### Responsável
-Jonathan Vaz de Avelar
+Saulo Lima de Carvalho e Jonathan Vaz de Avelar
 
 <br>
 
 ### Segmentos (RF-03)
 
-............
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/inicio2.png"
+</figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a criação de abas para input de informações segmentadas.
 
 #### Artefatos da funcionalidade
 
-●............
+● HomePage Portal Intra.html<br>
+● HomePage Portal Intra.css<br>
+● login.js
 
 #### Estrutura de Dados
 
-●
-
+● [HomePage Portal Intra.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 #### Instruções de acesso
 
-Após acesso ao sistema, na Home Page, abaixo dos destaques, clique no segmento desejado, e no botão "Adicionar", para incluir informações sobre um tema específico. Ou abra um navegador de Internet e informe a seguinte URL: ..................
+Após acesso ao sistema, na Home Page, abaixo dos destaques, clique no segmento desejado, e no botão "Adicionar", para incluir informações sobre um tema específico. Ou abra um navegador de Internet e informe a seguinte URL: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 
 #### Responsável
@@ -70,34 +77,41 @@ Mayara Pinheiro
 <br>
 
 ### Customização (RF-04)
-
-............
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/in%C3%ADcio1.png">"
+    <figcaption></figcaption>
+</figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a customização de cores e planos de fundo do Portal.
 
 #### Artefatos da funcionalidade
 
-●............
+● login.html<br>
+● login.css<br>
+● login.js<br>
+● HomePage Portal Intra.html<br>
+● HomePage Portal Intra.css
 
 #### Estrutura de Dados
 
-●
-
-
+● [login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/login.html)
+● [HomePage Portal Intra.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 #### Instruções de acesso
 
-Após acesso ao sistema, no canto superior direito da Home Page, clique nas opções de cores par customizar. Ou abra um navegador de Internet e informe a seguinte URL: ..................
-
+Após acesso ao sistema, no canto superior direito da Home Page, clique nas opções de cores par customizar. Ou abra um navegador de Internet e informe a seguinte URL: 
+(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/HomePage%20Portal%20Intra.html)
 
 #### Responsável
-Saulo Lima
+Saulo Lima de Carvalho
 
 <br>
 
 ### Fóruns (RF-05)
+
 
 Este requisito foi postergado através das repriorizações devido ao tamanho da equipe e prazos de entrega.
 
@@ -105,34 +119,17 @@ Este requisito foi postergado através das repriorizações devido ao tamanho da
 
 A aplicação deve permitir a criação de fóruns contendo botões para resposta em texto.
 
-#### Artefatos da funcionalidade
-
-●............
-
-#### Estrutura de Dados
-
-●
-
-
-
-#### Instruções de acesso
-
-Após acesso ao sistema, no cabeçalho, clique na opção "Fóruns e Enquetes" para acessar e no botão "Criar Fórum" para criação. Ou abra um navegador de Internet e informe a seguinte URL: ..................
-
-
-#### Responsável
-Mayara Pinheiro
-
 <br>
 
 ### Enquete (RF-06)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Enquete%20(2).png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/enquete.png"
     <figcaption>Figura 10 - Tela de Enquete </figcaption>
 </figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir a criação de enquetes com botões para votação.
 
@@ -140,11 +137,13 @@ A aplicação deve permitir a criação de enquetes com botões para votação.
 #### Artefatos da funcionalidade
 
 ● Portal Intra (Formulario Enquete).html<br>
-● Portal Intra (Formulario Enquete).css
+● Portal Intra (Formulario Enquete).css<br>
+● Portal Intra (Formulario Enquete).js<br>
+● login.css
 
 #### Estrutura de Dados
 
-●[Criar Enquete.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Portal%20Intra%20(Formulario%20Enquete).html)
+● [Portal Intra (Formulario Enquete).html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Portal%20Intra%20(Formulario%20Enquete).html)
 
 
 #### Instruções de acesso
@@ -154,25 +153,33 @@ Ou abra um navegador de Internet e informe a seguinte URL: https://github.com/IC
 
 #### Responsável
 
-Jonathan Vaz de Avelar
+Jonathan Vaz de Avelar e Saulo Lima de Carvalho
 
 <br>
 
 ### Denúncias (RF-07)
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Den%C3%BAncias.PNG"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia.png"
     <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
 </figure> 
 
+---
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/denuncia2.png"
+    <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
+</figure> 
 
 #### Requisito atendido
+(Escopo reduzido)
 
 A aplicação deve permitir o registro anônimo de ocorrências/denúncias que deverão ser encaminhadas para e-mail(s) específico(s) de acordo com a estrutura da empresa.
 
 #### Artefatos da funcionalidade
 
-●denuncia.html
+● denuncia.html<br>
+● login.css<br>
+● HomePage Portal Intra.css
 
 #### Estrutura de Dados
 
@@ -193,7 +200,10 @@ Mayara Pinheiro
 
 ### Cadastro de Usuários (RF-08)
 
-............
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/cadastro.png"
+    <figcaption>Figura 11 - Tela para registro de denúncias </figcaption>
+</figure> 
 
 #### Requisito atendido
 
@@ -201,26 +211,28 @@ A aplicação deve permitir o cadastro de usuários.
 
 #### Artefatos da funcionalidade
 
-●............
+●Cadastro de Usuário.html<br>
+●Cadastro de Usuário.css<br>
+●HomePage (Portal Intra).css
 
 #### Estrutura de Dados
 
-●
+●[Cadastro de Usuário.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Cadastro%20de%20Usuario%20.html)
 
 
 
 #### Instruções de acesso
 
-Após acesso ao sistema, ...........
+Após acesso ao sistema, clique em cadastrar usuário após preencher os dados: (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/codigo-fonte/Cadastro%20de%20Usuario%20.html)
 
 
 #### Responsável
-Saulo Lima
+Saulo Lima de Carvalho
 
 <br>
 
 
-###  (RF-09)
+### Acesso à aplicação (RF-09)
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Tela%20Login.jpg"

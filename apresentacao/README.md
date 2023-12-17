@@ -9,7 +9,9 @@ A apresentação do projeto consiste na geração de um conjunto de slides em um
 > - Solução Implementada (funcionalidades de software)
 > - Conclusão da elaboração do projeto (pontos positivos, desafios, aprendizado).
 
-[Adicione pdf de apresentação.]
+Apresentação:
+
+(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/Projeto%20Etapa%205%20-%20Portal%20Intra%20-%20dez-2023.pdf)
 
 > **Links Úteis**:
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
@@ -25,8 +27,10 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 > - resolução HD (720p) ou Full HD (1080p)
 > - formato mp4.
 
-[Adicione vídeo de apresentação.]
+Vídeo:
+
+(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/f5efe989-88fe-40fa-b2d6-ec312a0c9ff5.mp4)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/f5efe989-88fe-40fa-b2d6-ec312a0c9ff5.mp4)
 
 ## Hospedagem
 
-[Adicione o endereço eletrônico público onde o site encontra-se hospedado.]
+Não foi obtida permissão para utilizar o github Pages. Entretanto, todo conteúdo está disponível para publicação conforme vídeo.

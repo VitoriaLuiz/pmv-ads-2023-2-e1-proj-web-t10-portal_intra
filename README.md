@@ -15,8 +15,6 @@ pequenas empresas que buscam a organização de suas funções e projetos.
 
 ## Integrantes
 
-* Bernardo Alves Carvalho
-* Efraim Buarque de Lima
 * Jonathan Vaz De Avelar
 * Mayara da Rocha Pinheiro
 * Saulo Lima de Carvalho
