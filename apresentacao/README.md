@@ -11,12 +11,7 @@ A apresentação do projeto consiste na geração de um conjunto de slides em um
 
 Apresentação:
 
-(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/Projeto%20Etapa%205%20-%20Portal%20Intra%20-%20dez-2023.pdf)
-
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/Projeto%20Etapa%205%20-%20Portal%20Intra%20-%20dez-2023%20v2.pdf
 
 ## Vídeo de apresentação
 
@@ -29,8 +24,11 @@ A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a a
 
 Vídeo:
 
-(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/f5efe989-88fe-40fa-b2d6-ec312a0c9ff5.mp4)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/f5efe989-88fe-40fa-b2d6-ec312a0c9ff5.mp4)
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/f5efe989-88fe-40fa-b2d6-ec312a0c9ff5.mp4
 
 ## Hospedagem
 
-Não foi obtida permissão para utilizar o github Pages. Entretanto, todo conteúdo está disponível para publicação conforme vídeo.
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/
+Login e senha para simulação: admin
+
+Obs anterior: Não foi obtida permissão para utilizar o github Pages. Entretanto, todo conteúdo está disponível para publicação conforme vídeo.
