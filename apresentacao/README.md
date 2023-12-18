@@ -11,6 +11,7 @@ A apresentação do projeto consiste na geração de um conjunto de slides em um
 
 Apresentação:
 
+Versão atualizada com link da hospedagem:
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/Projeto%20Etapa%205%20-%20Portal%20Intra%20-%20dez-2023%20v2.pdf
 
 ## Vídeo de apresentação
