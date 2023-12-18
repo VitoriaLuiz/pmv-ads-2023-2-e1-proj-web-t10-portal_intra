@@ -29,7 +29,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_
 
 ## Hospedagem
 
-https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/ <br>
 Login e senha para simulação: admin
 
 Observação anterior: Não foi obtida permissão para utilizar o github Pages. Entretanto, todo conteúdo está disponível para publicação conforme vídeo.
