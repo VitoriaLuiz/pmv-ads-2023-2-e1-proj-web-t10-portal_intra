@@ -11,7 +11,7 @@ A apresentação do projeto consiste na geração de um conjunto de slides em um
 
 Apresentação:
 
-Versão atualizada com link da hospedagem:
+Versão atualizada com link da hospedagem:<br>
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/apresentacao/Projeto%20Etapa%205%20-%20Portal%20Intra%20-%20dez-2023%20v2.pdf
 
 ## Vídeo de apresentação
@@ -32,4 +32,4 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_
 https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/
 Login e senha para simulação: admin
 
-Obs anterior: Não foi obtida permissão para utilizar o github Pages. Entretanto, todo conteúdo está disponível para publicação conforme vídeo.
+Observação anterior: Não foi obtida permissão para utilizar o github Pages. Entretanto, todo conteúdo está disponível para publicação conforme vídeo.
