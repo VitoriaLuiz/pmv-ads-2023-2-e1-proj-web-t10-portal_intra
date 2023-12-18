@@ -39,7 +39,7 @@ pequenas empresas que buscam a organização de suas funções e projetos.
 
 # Hospedagem
 
-* https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/
+* https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/ <br>
 Login e senha para simulação: admin 
 
 # Código-Fonte
