@@ -3,7 +3,7 @@
 
 ## User Flow
 
-O fluxograma apresentado na figura 3 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue.
+Esse diagrama visualiza a jornada de um usuário dentro do site do "Lar de Patinhas". Ele demonstra as possíveis rotas que um visitante pode tomar desde o momento em que acessa a página inicial até o ponto em que decide adotar um animal.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-portal_intra/blob/main/documentos/img/Portal%20Intra%20-%20Fluxo.PNG"
